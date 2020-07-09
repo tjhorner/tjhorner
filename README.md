@@ -1,5 +1,3 @@
-## Hi! I'm Tj 👋
-
 ## Edit my profile!
 
 Can you write a better profile than me? [Open a PR](https://github.com/tjhorner/tjhorner/pulls) and I will accept it.
@@ -13,3 +11,5 @@ Can you write a better profile than me? [Open a PR](https://github.com/tjhorner/
 Have fun!
 
 ----
+
+## Hi! I'm Tj 👋
