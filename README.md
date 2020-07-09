@@ -1,16 +1,13 @@
-### Hi there 👋
+## Edit my profile!
 
-<!--
-**tjhorner/tjhorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Can you write a better profile than me? [Open a PR](https://github.com/tjhorner/tjhorner/pulls) and I will accept it.
 
-Here are some ideas to get you started:
+### Rules
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. No ads
+2. Keep this entire top section (up to and including the horizontal divider)
+3. No obviously spammy or vulgar stuff
+
+Have fun!
+
+----
