@@ -11,3 +11,5 @@ Can you write a better profile than me? [Open a PR](https://github.com/tjhorner/
 Have fun!
 
 ----
+
+## Hi! I'm Tj 👋
