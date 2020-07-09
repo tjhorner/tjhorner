@@ -13,3 +13,7 @@ Have fun!
 ----
 
 ## Hi! I'm Tj 👋
+
+--
+
+## I am not a robot, I swear guys just trust me on this, please. 
