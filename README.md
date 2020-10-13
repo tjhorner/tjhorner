@@ -12,7 +12,7 @@ Have fun!
 
 ----
 
-## Hi! I'm Tj 👋
+## Hi! I'm Tj 👋 -- an awesome project
 
 --
 
